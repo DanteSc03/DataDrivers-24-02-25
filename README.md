@@ -43,12 +43,6 @@ Si quieres aprender más sobre los temas tratados en la clase, consulta los sigu
 
 Si deseas mejorar el contenido o agregar más recursos, ¡eres bienvenido a contribuir! Puedes hacerlo mediante pull requests o abriendo un issue.
 
-## 📩 Contacto
-
-Para cualquier duda o comentario, puedes contactarme a través de:
-- 📧 Correo: [tu-email@example.com](mailto:tu-email@example.com)
-- 🐦 Twitter: [@tu_usuario](https://twitter.com/tu_usuario)
-
 ---
 
 ¡Gracias por tu interés en Data Drivers! 🚀
